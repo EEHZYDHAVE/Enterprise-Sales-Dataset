@@ -9,4 +9,4 @@ In undergoiong this project I crafted out 5 questions I would love to see answer
 ## Project Deliverables:
 - The Python file house the analysis
 - Attached to it is an HTML report of the main findings
-- Then a notebook in readable format (still under productin)
+- Then a notebook in readable format'
